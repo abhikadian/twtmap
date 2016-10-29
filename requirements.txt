@@ -1,0 +1,4 @@
+Django==1.9.8
+elasticsearch==5.0.0
+requests-aws4auth==0.9
+
